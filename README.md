@@ -3,6 +3,7 @@
 <p align="center">My games in: <a href="https://albnzhum.itch.io/" target="_blank">Itch.io</a></p>
 <h3>My skills:</h3>
 <div style="display:inline-block">
+  <img align="right" src="https://media.tenor.com/kaRCm9ELxKgAAAAC/menhera-chan-chibi.gif)">
 <ul align="left" >
   <li>Unity dev.</li>
   <li>UE 4/5 dev.</li>
@@ -10,7 +11,7 @@
   <li>Frontend dev.</li>
   <li>Database management</li>
 </ul>
-  <img align="right" src="https://media.tenor.com/kaRCm9ELxKgAAAAC/menhera-chan-chibi.gif)">
+  
 </div>
 
 - 🔭 I’m currently working on [AERSA game](https://github.com/albnzhum/AERSA)
