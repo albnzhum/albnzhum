@@ -5,7 +5,7 @@
 
 <table border="0">
  <tr>
-    <td  width="150"><ul align="left">
+    <td  width="300"><ul align="left">
   <li>Unity dev.</li>
   <li>UE 4/5 dev.</li>
   <li>UI/UX design</li>
