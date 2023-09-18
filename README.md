@@ -10,7 +10,7 @@
   <li>Frontend dev.</li>
   <li>Database management</li>
 </ul>
-  <div class="tenor-gif-embed" data-postid="24076530" data-share-method="host" data-aspect-ratio="1.24031" data-width="100%"><a href="https://tenor.com/view/menhera-chan-chibi-menhera-angry-anime-girl-gif-24076530">Menhera Chan Chibi GIF</a>from <a href="https://tenor.com/search/menhera+chan-gifs">Menhera Chan GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+  <img href="https://tenor.com/en-GB/view/menhera-chan-chibi-menhera-angry-anime-girl-gif-24076530">
 </div>
 
 - 🔭 I’m currently working on [AERSA game](https://github.com/albnzhum/AERSA)
