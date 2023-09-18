@@ -3,7 +3,7 @@
 <p align="center">My games in: <a href="https://albnzhum.itch.io/" target="_blank">Itch.io</a></p>
 <h3 align="center">My skills:</h3>
 <p align="center">
-<pre><code>
+<pre><code align="center">
 Unity dev. UE 4/5 dev. UI/UX design. Frontend dev. Database management
 </code></pre>
   <h3 align="center">Languages and Tools:</h3>
