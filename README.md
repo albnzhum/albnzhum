@@ -10,7 +10,7 @@
   <li>Frontend dev.</li>
   <li>Database management</li>
 </ul>
-  <img src="https://tenor.com/en-GB/view/menhera-chan-chibi-menhera-angry-anime-girl-gif-24076530">
+  <img src="[https://tenor.com/en-GB/view/menhera-chan-chibi-menhera-angry-anime-girl-gif-24076530](https://media.tenor.com/kaRCm9ELxKgAAAAC/menhera-chan-chibi.gif)">
 </div>
 
 - 🔭 I’m currently working on [AERSA game](https://github.com/albnzhum/AERSA)
