@@ -2,6 +2,7 @@
 <h3 align="center">Computer science student, junior game developer</h3>
 <p align="center">My games in: <a href="https://albnzhum.itch.io/" target="_blank">Itch.io</a></p>
 <h3>My skills:</h3>
+<div class="container" style="text-align:center">
 <ul>
   <li>Unity dev.</li>
   <li>UE 4/5 dev.</li>
@@ -9,6 +10,7 @@
   <li>Frontend dev.</li>
   <li>Database management</li>
 </ul>
+</div>
 
 - 🔭 I’m currently working on [AERSA game](https://github.com/albnzhum/AERSA)
 
