@@ -2,7 +2,7 @@
 <h3 align="center">Computer science student, junior game developer</h3>
 <p align="center">My games in: <a href="https://albnzhum.itch.io/" target="_blank">Itch.io</a></p>
 <h3>My skills:</h3>
-<div display="inline-block">
+<div style="display:inline-block">
 <ul align="left" >
   <li>Unity dev.</li>
   <li>UE 4/5 dev.</li>
