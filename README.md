@@ -5,13 +5,13 @@
 
 <table border="0">
  <tr>
-    <td><ul align="left" height="200">
+    <th><ul align="left" height="200">
   <li>Unity dev.</li>
   <li>UE 4/5 dev.</li>
   <li>UI/UX design</li>
   <li>Frontend dev.</li>
   <li>Database management</li>
-  </ul></td>
+  </ul></th>
  </tr>
  <tr>
     <td><div align="right">
