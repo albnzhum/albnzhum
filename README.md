@@ -13,7 +13,7 @@
 </ul>
   
 </div>
-- 🔭 I’m currently working on [AERSA game](https://github.com/albnzhum/AERSA)
+- 🔭 I’m currently working on <a href="https://github.com/albnzhum/AERSA">AERSA game</a>
 - 📫 How to reach me **albnzhum@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
