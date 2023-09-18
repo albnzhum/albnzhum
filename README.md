@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Albina</h1>
-<h3 align="center">Computer science student, junior game developer</h3>
+<pre><code align="center">Computer science student, junior game developer</code></pre>
 <p align="center">My games in: <a href="https://albnzhum.itch.io/" target="_blank">Itch.io</a></p>
 <h3 align="center">My skills:</h3>
 <p align="center">
