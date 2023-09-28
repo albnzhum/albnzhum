@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Albina</h1>
-<p align="center">My games in: <a href="https://albnzhum.itch.io/" target="_blank">Itch.io</a></p>
+<h1>Hi, I'm Albina</h1>
+<p ">My games in: <a href="https://albnzhum.itch.io/" target="_blank">Itch.io</a></p>
 <h3>My skills:</h3>
 <div style="display:inline-block">
 <ul align="left" >
