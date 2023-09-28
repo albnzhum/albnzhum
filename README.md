@@ -1,14 +1,5 @@
 <h1>Hi, I'm Albina</h1>
 <p ">My games in: <a href="https://albnzhum.itch.io/" target="_blank">Itch.io</a></p>
-<h3>My skills:</h3>
-<div style="display:inline-block">
-<ul align="left" >
-  <li>Unity dev.</li>
-  <li>UE 4/5 dev.</li>
-  <li>UI/UX design</li>
-  <li>Frontend dev.</li>
-  <li>Database management</li>
-</ul>
   
 </div>
 <p>- 🔭 I’m currently working on <a href="https://github.com/albnzhum/AERSA">AERSA</a> and <a href="https://github.com/albnzhum/railway-russian-empire">Railway: Russian Empire</a> games</p>
