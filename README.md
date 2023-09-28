@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm Albina</h1>
-<h3 align="center">Computer science student, junior game developer</h3>
+<h1 align="center">Hi, I'm Albina</h1>
 <p align="center">My games in: <a href="https://albnzhum.itch.io/" target="_blank">Itch.io</a></p>
 <h3>My skills:</h3>
 <div style="display:inline-block">
-    <img align="right" src="https://media.tenor.com/kaRCm9ELxKgAAAAC/menhera-chan-chibi.gif)">
 <ul align="left" >
   <li>Unity dev.</li>
   <li>UE 4/5 dev.</li>
@@ -13,7 +11,7 @@
 </ul>
   
 </div>
-<p>- 🔭 I’m currently working on <a href="https://github.com/albnzhum/AERSA">AERSA game</a></p>
+<p>- 🔭 I’m currently working on <a href="https://github.com/albnzhum/AERSA">AERSA</a> and <a href="https://github.com/albnzhum/railway-russian-empire">Railway: Russian Empire</a> games</p>
 <p>- 📫 How to reach me <b>albnzhum@gmail.com</b></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
